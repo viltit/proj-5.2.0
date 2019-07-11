@@ -1,4 +1,4 @@
-class proj520 < Formula
+class mbproj < Formula
   desc "Cartographic Projections Library"
   homepage "https://proj4.org/"
   url "https://download.osgeo.org/proj/proj-5.2.0.tar.gz"
