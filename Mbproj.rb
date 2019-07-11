@@ -2,7 +2,7 @@ class Mbproj < Formula
   desc "Cartographic Projections Library"
   homepage "https://proj4.org/"
   url "https://download.osgeo.org/proj/proj-5.2.0.tar.gz"
-  sha256 "676165c54319d2f03da4349cbd7344eb430b225fe867a90191d848dc64788008"
+  sha256 "ef919499ffbc62a4aae2659a55e2b25ff09cccbbe230656ba71c6224056c7e60"
 
   bottle do
     sha256 "63be7d4fa4555300a5b64fa243f1b22597ae0622b0eaa88397919dd102dc83e1" => :mojave
